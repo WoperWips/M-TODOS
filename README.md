@@ -1,21 +1,21 @@
-Título do projeto
-Um parágrafo da descrição do projeto vai aqui
+Metodos
+Nesse reprositorio foi feito com o 
 
 🚀 Começando
 Pode colocar o enunciado para o desenvolvimento do projeto
 
 📋 Pré-requisitos
-De que coisas você precisa para instalar o software e como instalá-lo?
+Visual Studio + extensões do Java
 
-Dar exemplos
 🔧 Instalação
 Explicação de como deve ser utilizado o projeto
+
 🛠️ Construído com
 Ferramentas utilizadas e bibliotecas
+Visual Studio 
 
-IDE Eclipse
 📌 Versão
-Versão 1.0 caso seja atualizado manter a descrição inicial e inserir uma nova linha com descrição da atualização.
-Versão 1.1 - Refatoração data 09/09/24
+Versão 1.0 
+
 ✒️ Autores
-Nome do desenvolvedor - Trabalho Inicial - Nome da atividade
+Herick Marlon - Trabalho Inicial - Metodos 
