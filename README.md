@@ -1,4 +1,4 @@
-Metodos:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada a Progamação Orientenda a Objeto.
+Metodos:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
 
 🚀 Começando
 
