@@ -5,14 +5,19 @@ Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação or
 
 Fatorial:
 Calcula o fatorial de um número fornecido.
+
 Maior Número:
 Compara três números e retorna o maior deles.
-Conversão de Minutos para Horas
+
+Conversão de Minutos para Horas:
 Converte uma quantidade de minutos em horas e minutos restantes.
-Média Aritmética?
+
+Média Aritmética:
 Calcula a média de três números fornecidos pelo usuário.
-Verificação de Número Positivo ou Negativo?
+
+Verificação de Número Positivo ou Negativo:
 Verifica se um número é positivo ou negativo com base na entrada do usuário.
+
 Cálculo de Potência:
 Calcula a potência de um número base elevado a um expoente utilizando a função Math.pow().
 
