@@ -1,7 +1,8 @@
 Metodos
-Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada a POO
+Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada a Progamação Orientenda a Objeto.
 
 🚀 Começando
+
 Fatorial:
 Calcula o fatorial de um número fornecido.
 Maior Número:
